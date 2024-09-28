@@ -1,5 +1,5 @@
 ![MasterHead]
-![169817619-92e89b97-c102-484f-8f98-c93ccf0dd0f4](https://github.com/user-attachments/assets/385dc95d-4a1c-454e-8b52-67ae4b74283a)
+(https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
@@ -41,7 +41,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=dart,flutter,react,reactnative,mui,html,css,vscode,github,figma,git" />
+    <img src="https://skillicons.dev/icons?i=dart,flutter,react,mui,html,css,vscode,github,figma,git" />
     <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins
 ,gcp,grafana,linux,postman,nodejs,express,python,javascript,firebase,mongodb," /><br>
 </div>
