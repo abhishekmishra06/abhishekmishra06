@@ -13,7 +13,7 @@
 
 <div align="center">
  
- I work with **Solutioneers Infotech** to create awesome content for developers.
+ I work with **[Solutioneers Infotech](your-website-link)** to create awesome content for developers.
  
 🌱 I’m currently learning **Docker, Supabase, AWS, Kubernetes, Terraform, CI/CD, Ansible** and monitoring tools like Prometheus.
 
@@ -34,6 +34,9 @@
   <a href="" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
+     <a href="https://medium.com/@abhishekmishra06460" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-00AB6C?style=for-the-badge&logo=medium&logoColor=white" target="_blank" />
+  </a>
 </div>
 
  <hr/>
@@ -41,8 +44,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=dart,flutter,react,python,javascript,mui,html,css,vscode,github,figma,git" />
-    <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,grafana,linux,postman,nodejs,express,firebase,mongodb," /><br>
+    <img src="https://skillicons.dev/icons?i=dart,flutter,react,javascript,mui,html,css,vscode,github,figma,git" />
+    <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,grafana,linux,postman,python,nodejs,express,firebase,mongodb," /><br>
 </div>
  
  <br/>
