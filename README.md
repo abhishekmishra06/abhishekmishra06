@@ -38,8 +38,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=flutter,react,React native,mui,html,css,vscode,github,figma,flutter flow,git" />
-    <img src="https://skillicons.dev/icons?i=aws,docker, Kubernetes,kali,teraform,nodejs,express,python,javascript ,firebase,mongodb," /><br>
+    <img src="https://skillicons.dev/icons?i=flutter,react,mui,html,css,vscode,github,figma,git" />
+    <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,kali,teraform,nodejs,express,python,javascript,firebase,mongodb," /><br>
 </div>
 
 <br/>
