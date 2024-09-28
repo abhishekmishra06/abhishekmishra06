@@ -1,3 +1,8 @@
+![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+<h1 align="center">Hi 👋, I'm Abhishek Mishra</h1>
+<h3 align="center">Turning ideas into digital realities through coding and creativity💪</h3>
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
+
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
 <h1 align="center">
@@ -25,7 +30,7 @@
   <a href="mailto:abhishekmishra06460@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
+  <a href="" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="" target="_blank">
@@ -38,8 +43,9 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=flutter,react,mui,html,css,vscode,github,figma,git" />
-    <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,kali,teraform,nodejs,express,python,javascript,firebase,mongodb," /><br>
+    <img src="https://skillicons.dev/icons?i=dart,flutter,react,reactnative,mui,html,css,vscode,github,figma,git" />
+    <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins
+,gcp,grafana,linux,postman,nodejs,express,python,javascript,firebase,mongodb," /><br>
 </div>
 
 <br/>
@@ -69,9 +75,4 @@
 <hr/>
 
 <br/>
-
-<div align="center">
-<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-</div>
-
 <br/>
