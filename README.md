@@ -42,8 +42,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=dart,flutter,react,mui,html,css,vscode,github,figma,git" />
-    <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins
-,gcp,grafana,linux,postman,nodejs,express,python,javascript,firebase,mongodb," /><br>
+    <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,linux,postman,nodejs,express,python,javascript,firebase,mongodb," /><br>
 </div>
 
 <br/>
