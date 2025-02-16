@@ -1,0 +1,29 @@
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # This will run every day at midnight. You can adjust the frequency as you prefer.
+  workflow_dispatch:  # You can trigger it manually from the Actions tab.
+
+jobs:
+  generate-snake:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Generate snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}  # Fetch your username dynamically
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+
+      - name: Upload the snake images
+        uses: actions/upload-artifact@v2
+        with:
+          name: snake-images
+          path: dist/*
