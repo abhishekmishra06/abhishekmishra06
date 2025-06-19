@@ -30,8 +30,8 @@
   <a href="https://www.linkedin.com/in/abhishek-mishra06460/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="" target="_blank">
-     <img src="https://portfolio-1-chi-sand.vercel.app" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  <a href="https://portfolio-1-chi-sand.vercel.app" target="_blank">
+       <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
      <a href="https://medium.com/@abhishekmishra06460" target="_blank">
     <img src="https://img.shields.io/badge/Medium-00AB6C?style=for-the-badge&logo=medium&logoColor=white" target="_blank" />
